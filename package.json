@@ -1,0 +1,19 @@
+{
+	"name": "theme-brocklesby",
+	"displayName": "Theme Brocklesby",
+	"description": "Theme Brocklesby",
+	"categories": [ "Themes" ],
+	"version": "1.0.0",
+	"publisher": "Chris Brocklesby",
+	"license": "MIT",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "theme-brocklesby",
+				"label": "Theme Brocklesby",
+				"path": "./themes/theme.json"
+			}
+		]
+	}
+}
