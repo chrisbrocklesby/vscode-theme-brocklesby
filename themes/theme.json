@@ -31,6 +31,7 @@
 		"statusBar.background": "#000000",
     	"statusBar.debuggingBackground": "#000000",
 		"statusBar.foreground": "#ffffff",
+		"statusBar.noFolderBackground" : "#000000",
 		"tab.activeBackground": "#000000",
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#1b1b1b",
@@ -41,6 +42,6 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#000000",
 		"titleBar.inactiveBackground": "#000000",
-		"titleBar.inactiveForeground": "#ffffff"
-	}
+		"titleBar.inactiveForeground": "#ffffff",
+		
 }
