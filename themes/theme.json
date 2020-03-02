@@ -42,6 +42,6 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#000000",
 		"titleBar.inactiveBackground": "#000000",
-		"titleBar.inactiveForeground": "#ffffff",
-		
+		"titleBar.inactiveForeground": "#ffffff"
+	}
 }
